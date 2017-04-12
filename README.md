@@ -1,1 +1,2 @@
-# ML2_Labs
+# Machine Learning 2 Assignments
+
