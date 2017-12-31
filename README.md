@@ -25,3 +25,10 @@ Source code for the [Machine Learning 2](http://coursecatalogue.uva.nl/xmlpages/
 
 - [Mircea Mironenco](https://github.com/danakianfar)
 - [Jim Winkens](https://github.com/nom)
+
+
+## Notice
+
+<p align="justify">
+The code was written for the Machine Learning 2 course taught by Patrick Forré, Max Welling and Joris Mooij at the University of Amsterdam. Please review the <a href="http://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html">UvA regulations governing Fraud and Plagiarism</a> in case you are a student at the UvA.
+</p>
