@@ -9,11 +9,36 @@ Source code for the [Machine Learning 2](http://coursecatalogue.uva.nl/xmlpages/
 ### Lab 1 - Independent Component Analysis (ICA)
 - [Assignment and Solutions](labs/lab1/lab1_MIRONENCO_WINKENS.ipynb)
 
+<p align="center">
+  <img src="images/orig_audio.png" width="550" /><br />
+  <i>Original Audio</i>
+</p>
+
+<p align="center">
+  <img src="images/reconstr_audio.png" width="550" /><br />
+  <i>Reconstructed Audio using ICA</i>
+</p>
+
 ### Lab 2 - Sum-Product and Max-Sum Algorithms
 - [Assignment and Solutions](labs/lab2/lab2_MIRONENCO_WINKENS.ipynb)
 
+<p align="center">
+  <img src="images/factor_graph.png" width="550" /><br />
+  <i>Factor graph</i>
+</p>
+
 ### Lab 3 - Expectation Maximization (EM) and Variational Autoencoders (VAE)
 - [Assignment and Solutions](labs/lab3/lab3_MIRONENCO_WINKENS.ipynb)
+
+
+<p align="center">
+  <img src="images/vae1.png" width="550" /><br />
+</p>
+
+<p align="center">
+  <img src="images/vae2.png" width="550" /><br />
+  <i>VAE Latent Space</i>
+</p>
 
 ## Dependencies
 - jupyter notebook
