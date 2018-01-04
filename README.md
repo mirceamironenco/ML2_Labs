@@ -16,7 +16,7 @@ Source code for the [Machine Learning 2](http://coursecatalogue.uva.nl/xmlpages/
 
 <p align="center">
   <img src="images/reconstr_audio.png" width="550" /><br />
-  <i>Reconstructed Audio using ICA</i>
+  <i>Reconstructed Audio using ICA (different order)</i>
 </p>
 
 ### Lab 2 - Sum-Product and Max-Sum Algorithms
