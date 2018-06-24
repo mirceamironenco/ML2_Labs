@@ -48,7 +48,7 @@ Source code for the [Machine Learning 2](http://coursecatalogue.uva.nl/xmlpages/
 
 ## Contributors
 
-- [Mircea Mironenco](https://github.com/danakianfar)
+- [Mircea Mironenco](https://github.com/mirceamironenco)
 - [Jim Winkens](https://github.com/nom)
 
 
